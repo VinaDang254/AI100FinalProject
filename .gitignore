@@ -1,0 +1,7 @@
+data/
+code/data/
+code/outputs/
+__pycache__/
+*.pyc
+generate_spreadsheet.py
+generate_report.py
